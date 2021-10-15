@@ -1,0 +1,311 @@
+:root {
+  --fil1: #1a2229;
+
+  --fil41: #291919;
+
+  --fil17: #2a2d36;
+
+  --fil46: #323d44;
+
+  --fil48: #334146;
+
+  --fil6: #35434a;
+
+  --fil38: #36352b;
+
+  --fil16: #363938;
+
+  --fil7: #36454c;
+
+  --fil51: #39464e;
+
+  --fil21: #3a444b;
+
+  --fil53: #424d55;
+
+  --fil43: #e4c5c5;
+
+  --fil54: #4a3533;
+
+  --fil47: #4c443b;
+
+  --fil42: #543a43;
+
+  --fil36: #54636a;
+
+  --fil13: #56666d;
+
+  --fil34: #5b656b;
+
+  --fil44: #6e5d63;
+
+  --fil49: #737c83;
+
+  --fil29: #76595b;
+
+  --fil31: #776667;
+
+  --fil45: #7c8489;
+
+  --fil12: #7e6161;
+
+  --fil27: #7e6163;
+
+  --fil52: #838993;
+
+  --fil35: #848485;
+
+  --fil8: #848a8c;
+
+  --fil24: #865b59;
+
+  --fil5: #868a8d;
+
+  --fil39: #89847c;
+
+  --fil2: #8a8b8d;
+
+  --fil25: #8d625b;
+
+  --fil55: #96877d;
+
+  --fil19: #989388;
+
+  --fil18: #9b948a;
+
+  --fil50: #a5968a;
+
+  --fil32: #a95c51;
+
+  --fil20: #b7aca5;
+
+  --fil15: #b97365;
+
+  --fil33: #bc5d6b;
+
+  --fil11: #bd616c;
+
+  --fil22: #c57a7e;
+
+  --fil10: #d48c84;
+
+  --fil40: #da9789;
+
+  --fil3: #e3968b;
+
+  --fil56: #e59b8b;
+
+  --fil23: #e59b8b;
+
+  --fil9: #e98979;
+
+  --fil4: #ebccb4;
+
+  --fil26: #eddccc;
+
+  --fil28: #f2deca;
+
+  --fil0: #cbe2f4;
+}
+.fil0 {
+  fill: var(--fil0);
+}
+.fil1 {
+  fill: var(--fil1);
+}
+.fil2 {
+  fill: var(--fil2);
+}
+.fil3 {
+  fill: var(--fil3);
+}
+.fil4 {
+  fill: var(--fil4);
+}
+.fil5 {
+  fill: var(--fil5);
+}
+.fil6 {
+  fill: var(--fil6);
+}
+.fil7 {
+  fill: var(--fil7);
+}
+.fil8 {
+  fill: var(--fil8);
+}
+.fil9 {
+  fill: var(--fil9);
+}
+.fil10 {
+  fill: var(--fil10);
+}
+.fil11 {
+  fill: var(--fil11);
+}
+.fil12 {
+  fill: var(--fil12);
+}
+.fil13 {
+  fill: var(--fil13);
+}
+
+.fil15 {
+  fill: var(--fil15);
+}
+.fil16 {
+  fill: var(--fil16);
+}
+.fil17 {
+  fill: var(--fil17);
+}
+.fil18 {
+  fill: var(--fil18);
+}
+.fil19 {
+  fill: var(--fil19);
+}
+.fil20 {
+  fill: var(--fil20);
+}
+
+.fil21 {
+  fill: var(--fil21);
+}
+.fil22 {
+  fill: var(--fil22);
+}
+.fil23 {
+  fill: var(--fil23);
+}
+.fil25 {
+  fill: var(--fil25);
+}
+.fil25 {
+  fill: var(--fil25);
+}
+.fil26 {
+  fill: var(--fil26);
+}
+.fil27 {
+  fill: var(--fil27);
+}
+.fil28 {
+  fill: var(--fil28);
+}
+.fil29 {
+  fill: var(--fil29);
+}
+.fil30 {
+  fill: var(--fil30);
+}
+
+.fil31 {
+  fill: var(--fil31);
+}
+.fil32 {
+  fill: var(--fil32);
+}
+.fil33 {
+  fill: var(--fil33);
+}
+.fil34 {
+  fill: var(--fil34);
+}
+.fil35 {
+  fill: var(--fil35);
+}
+.fil36 {
+  fill: var(--fil36);
+}
+.fil37 {
+  fill: var(--fil37);
+}
+.fil38 {
+  fill: var(--fil38);
+}
+.fil39 {
+  fill: var(--fil39);
+}
+
+.fil40 {
+  fill: var(--fil40);
+}
+
+.fil41 {
+  fill: var(--fil41);
+}
+.fil42 {
+  fill: var(--fil42);
+}
+.fil43 {
+  fill: var(--fil43);
+}
+.fil44 {
+  fill: var(--fil44);
+}
+.fil45 {
+  fill: var(--fil45);
+}
+.fil46 {
+  fill: var(--fil46);
+}
+.fil47 {
+  fill: var(--fil47);
+}
+.fil48 {
+  fill: var(--fil48);
+}
+.fil49 {
+  fill: var(--fil49);
+}
+
+.fil50 {
+  fill: var(--fil50);
+}
+
+.fil51 {
+  fill: var(--fil51);
+}
+.fil52 {
+  fill: var(--fil52);
+}
+.fil53 {
+  fill: var(--fil53);
+}
+.fil54 {
+  fill: var(--fil54);
+}
+.fil55 {
+  fill: var(--fil55);
+}
+.fil56 {
+  fill: var(--fil56);
+}
+
+/* Animation Right bird fly */
+#_2405174880768 > path.fil43 {
+  -webkit-animation: fly 5s linear 1s forwards;
+  animation: fly 5s linear 1s forwards;
+}
+
+@-webkit-keyframes fly {
+  0% {
+    -webkit-transform: translateY(0) translateX(0);
+    transform: translateY(0) translateX(0);
+  }
+  100% {
+    -webkit-transform: translateY(-1500px) translateX(2000px);
+    transform: translateY(-1500px) translateX(1500px);
+  }
+}
+@keyframes fly {
+  0% {
+    -webkit-transform: translateY(0) translateX(0);
+    transform: translateY(0) translateX(0);
+  }
+  100% {
+    -webkit-transform: translateY(-1500px) translateX(1500px);
+    transform: translateY(-1500px) translateX(1500px);
+  }
+}
